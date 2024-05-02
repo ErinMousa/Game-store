@@ -120,6 +120,7 @@ body {
     display: flex;
     gap: 12px;
     justify-items: center;
+    justify-content: center;
 }
 
 
